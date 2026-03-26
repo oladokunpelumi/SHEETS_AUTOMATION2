@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.log
+*_checkpoint.json
+twitter_results.xlsx
+verified_results.xlsx
+results_v2.xlsx
+.DS_Store
